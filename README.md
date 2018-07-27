@@ -7,6 +7,9 @@ Instalacion y actualizacion dei3 orientado a VOID LINUX
 https://voidlinux.org/download/
 
 #######How Excute the script########
+
+
+
 #Open Terminal & Write
 
 mkdir /I3wScript
